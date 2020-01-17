@@ -55,7 +55,7 @@ the features from these images, a Wavelet transform tool was used.
 3. The number of instances is 1372.
 4. There is no missing value.
 
-## [Download] (https://archive.ics.uci.edu/ml/datasets/banknote+authentication#)
+## [Download](https://archive.ics.uci.edu/ml/datasets/banknote+authentication#)
 
 
 
@@ -76,7 +76,7 @@ you must know the classification and regression approach. So, if you are a begin
 3. The number of instances is 4898.
 4. There are two datasets included. Moreover, these datasets correspond to red and white vinho Verde wine, which comes from the north of Portugal.
 
-## [Download] (https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+## [Download](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 
 # Clustering:
 
@@ -96,7 +96,7 @@ Also, the attribute characteristic is categorical.
 3. In this dataset, mapping is done to form new variables from the old variables.
 4. The data is available in .txt format.
 
-## [Download] (https://www.ubuntupit.com/best-machine-learning-datasets-for-practicing-applied-ml/)
+## [Download](https://www.ubuntupit.com/best-machine-learning-datasets-for-practicing-applied-ml/)
 
 # Text Classification Challenge:
 
@@ -116,7 +116,7 @@ are five predefined classes. In business class, there are 510 documents, in ente
 3. You may use 50% data as a training dataset and rest as test dataset or as your system requirement.
 4. To use this dataset, you must have to cite this paper.
 
-## [Download] (http://mlg.ucd.ie/datasets/bbc.html)
+## [Download](http://mlg.ucd.ie/datasets/bbc.html)
 
 # Video Classification 
 
@@ -135,7 +135,7 @@ Google has shared a labeled dataset with 8M classified YouTube Videos and its’
 3. To filter the video labels, they use both automated and manual curation strategies.
 4. You can download the CSV file of their vocabulary.
 
-## [Download] https://research.google.com/youtube8m/
+## [Download](https://research.google.com/youtube8m/)
 
 
 # Twitter Sentiment Analysis:
@@ -158,7 +158,7 @@ you to enhance your machine learning skill.
    using the train data. For evaluation, you have to use test data.
 4. Two data fields are available, i.e., ItemID (ID of tweet) and SentimentText (text of the tweet).
 
-## [Download] https://www.kaggle.com/c/twitter-sentiment-analysis2/data
+## [Download](https://www.kaggle.com/c/twitter-sentiment-analysis2/data)
 
 # Natural Language Processing 
 
@@ -175,7 +175,7 @@ dataset is one of them. It contains 35 million reviews from Amazon spanning 18 y
 3. You have to cite this paper: J. McAuley and J. Leskovec. Hidden factors and hidden topics: understanding rating dimensions with review text. RecSys, 2013.
 4. In this dataset, duplicate data may be found.
 
-## [Download] https://snap.stanford.edu/data/web-Amazon.html
+## [Download](https://snap.stanford.edu/data/web-Amazon.html)
 
 # Image recognition
 
@@ -194,5 +194,5 @@ dataset. The surprising fact of this dataset is that it offers both 60000 instan
 3. The training set and testing set are disjoint from each other.
 4. Get binary images of handwritten digits using NIST’s Special Database 3 and Special Database 1.
 
-## [Download] http://yann.lecun.com/exdb/mnist/
+## [Download](http://yann.lecun.com/exdb/mnist/)
 
