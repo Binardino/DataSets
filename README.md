@@ -2,20 +2,24 @@
 # DataSets
 Listed are a few interesting datasets for practicing Applied Machine Learning
 
-##Classification:
+## Classification:
 Breast Cancer Wisconsin (Diagnostic) Data Set:
+
 ![Breast Cancer data set](BreastCancer.jpg)
+
 Machine learning dataset for classification problem is breast cancer diagnostic dataset. 
 It’s a well-known dataset for breast cancer diagnosis system. This breast cancer diagnostic dataset is 
 designed based on the digitized image of a fine needle aspirate of a breast mass. 
 In this digitized image, the features of the cell nuclei are outlined.
 
-##Features:
+## Features:
 
 1. There are three types of attributes available, i.e., ID, diagnosis, 30 real-valued input features.
 2. For each cell nucleus, ten real-valued features are calculated, i.e., radius, texture, perimeter, area, etc.
 3. There are two types of predicting filed, i.e., benign and malignant.
 4. In this database, there are 569 instances which include 357 benign and 212 malignant.
+
+Click here to [download!](http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 
 breast Cancer Diagnosis : http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 spam classification or spam detection: Spam SMS Classifier Dataset : https://www.kaggle.com/uciml/sms-spam-collection-dataset
