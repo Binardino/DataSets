@@ -19,7 +19,7 @@ In this digitized image, the features of the cell nuclei are outlined.
 3. There are two types of predicting filed, i.e., benign and malignant.
 4. In this database, there are 569 instances which include 357 benign and 212 malignant.
 
-Click here to [download!](http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
+## [Download](http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 
 breast Cancer Diagnosis : http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 spam classification or spam detection: Spam SMS Classifier Dataset : https://www.kaggle.com/uciml/sms-spam-collection-dataset
